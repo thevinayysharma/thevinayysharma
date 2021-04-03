@@ -3,19 +3,14 @@
 <h1 align="center">Hi 👋, I'm Vinay Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Web engineering**
+- 🔭 I’m currently learning **Web engineering**
 
-- 🌱 I’m currently learning **React, Cloud**
-
-- 🤝 I’m looking for help with **DSA**
+- 🤝 I’m looking for projects in **React**
 
 - 📝 I regularly write articles on [https://thevinayysharma.medium.com/](https://thevinayysharma.medium.com/)
 
 - 💬 Ask me about **Product development.**
 
-- 📫 How to reach me **vinay02856@gmail.com**
-
-- ⚡ Fun fact **I think I"ll buy Amazon one day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
