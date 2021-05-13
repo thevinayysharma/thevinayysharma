@@ -12,9 +12,12 @@
 - 💻 I am good with **Javascript**, **React.js**, **Operating systems** & **Cloud Engineering**.
 - 📖 I am currently reading [The Computer Science of Human Decisions](https://www.amazon.in/Algorithms-Live-Computer-Science-Decisions-ebook/dp/B015DLA0LE)
 - 💬 Talk to me about Mathematics, STEM Startups, Computational and Product Engineering. 
-- 🌀 I'm eyeing to build a data-intelligence company and a dynamic application of Transhumans Web.
+- 🌀 I'm eyeing to build a data-intelligence company and a dynamic web application involving blockchain.
 - ⚡ Fun fact: Internet is the world's largest controlled experiment.
 
+
+### Projects and Learnings
+>Here's a bunch of software learnings and projects, I am putting myself into(_to explore and keep my hands wet with programming_) - [Personal Projects Doc](https://www.notion.so/6e6775d6d83a44dbbc79d6fb5a0624e1?v=4dde86444f0d42cfaefc238f63013656)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +26,3 @@
 <a href="https://instagram.com/thevinayysharma" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-256.png" alt="thevinayysharma" height="30" width="30" /></a>
 <a href="https://medium.com/@thevinayysharma" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-256.png" alt="@thevinayysharma" height="30" width="30" /></a>
 </p>
-
