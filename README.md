@@ -1,18 +1,17 @@
-# Hello Human <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+#  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       ```TECH + STARTUPS + CODE```
 
-![](https://useruploads.cdn-thecorrespondent.com/image/xmGPUo5hnBG8C36xdXcMyJuBsmc=/1024x576/tc-useruploads-images/cc192ef8a5c24660aa4a4a7947dccb28.gif)
+Hi, I am Vinay Sharma. I specialise in Web engineering. I love technological advances and startups who create them. My interests lies in envisioning new systems, reading engineering work and mathematical applications. I occasionally break the _Matrix_ with my imagination.
 
-![](https://freetoolonline.com/b3e30352-1844-4cb5-aceb-960fb1a49519)
+<br/>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Frontend Engineer.
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> More About Me:
+- 🏦  Looking forward for work opportunities as a UI Engineer.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I write stuff on [Medium](https://medium.com/@thevinayysharm).
-- 🌱 I also run a multi-disciplinary newsletter: [DownTown ⚡](https://downtown.substack.com)
+- 📝 I write stuff on [Medium](https://medium.com/@thevinayysharm), [DownTown](https://downtown.substack.com) and [dev.to](https://dev.to/thevinayysharma).
 - 💻 I am good with **Javascript**, **React.js**, **Operating systems** & **Cloud Engineering**.
 - 📖 I am currently reading [The Computer Science of Human Decisions](https://www.amazon.in/Algorithms-Live-Computer-Science-Decisions-ebook/dp/B015DLA0LE)
-- 💬 Talk to me about Mathematics, STEM Startups, Computational and Product Engineering. 
-- 🌀 I'm eyeing to build a data-intelligence company and a dynamic web application involving blockchain.
+- 💬 Ask me about...  Computational and Product Engineering., Web and Logic.
+- 🌀 I'm eyeing to build a intelligence company and dynamic applications for masses. _Join the [Quest](https://vinay02856@gmail.com)!_
 - ⚡ Fun fact: Internet is the world's largest controlled experiment.
 
 
@@ -21,8 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thevinayysharma" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-256.png" alt="thevinayysharma" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/vinay-sharma-engineer" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="vinay-sharma-engineer" height="30" width="30" /></a>
-<a href="https://instagram.com/thevinayysharma" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-256.png" alt="thevinayysharma" height="30" width="30" /></a>
-<a href="https://medium.com/@thevinayysharma" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-256.png" alt="@thevinayysharma" height="30" width="30" /></a>
+<a href="https://twitter.com/thevinayysharma" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-256.png" alt="thevinayysharma" height="35" width="35" /></a>&nbsp;&nbsp
+<a href="https://linkedin.com/in/vinay-sharma-engineer" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="vinay-sharma-engineer" height="35" width="35" /></a>&nbsp;&nbsp
+<a href="https://medium.com/@thevinayysharma" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-256.png" alt="@thevinayysharma" height="35" width="35" /></a>
 </p>
