@@ -11,6 +11,7 @@ Hi, I am Vinay Sharma. I specialise in Web engineering. I love technological adv
 - 💻 I am good with **Javascript**, **React.js**, **Operating systems** & **Cloud Engineering**.
 - 📖 I am currently reading [The Computer Science of Human Decisions](https://www.amazon.in/Algorithms-Live-Computer-Science-Decisions-ebook/dp/B015DLA0LE)
 - 💬 Ask me about...  Computational and Product Engineering., Web and Logic.
+- 💻 Need to hack on d3.js, game development & data engineering.
 - 🌀 I'm eyeing to build a intelligence company and dynamic applications for masses. _Join the [Quest](https://vinay02856@gmail.com)!_
 - ⚡ Fun fact: Internet is the world's largest controlled experiment.
 
