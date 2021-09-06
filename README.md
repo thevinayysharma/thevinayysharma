@@ -1,11 +1,11 @@
-#  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       ```TECH + STARTUPS + CODE```
+#  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       `TECH + STARTUPS + CODE` 
 
 Hi, I am Vinay Sharma. I specialise in Web engineering. I love technological advances and startups who create them. My interests lies in envisioning new systems, reading engineering work and mathematical applications. I occasionally break the _Matrix_ with my imagination.
 
 <br/>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> More About Me:
-- 🏦  Looking forward for work opportunities as a UI Engineer.
+- 🏦  Looking for work opportunities as a Web Engineer.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I write stuff on [Medium](https://medium.com/@thevinayysharm), [DownTown](https://downtown.substack.com) and [dev.to](https://dev.to/thevinayysharma).
 - 💻 I am good with **Javascript**, **React.js**, **Operating systems** & **Cloud Engineering**.
