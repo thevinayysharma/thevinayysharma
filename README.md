@@ -9,7 +9,7 @@ Hi, I am Vinay Sharma. I wanna specialise in Web engineering. I love technologic
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I write stuff on [Medium](https://medium.com/@thevinayysharm), [DownTown](https://downtown.substack.com) and [dev.to](https://dev.to/thevinayysharma).
 - 💻 I am good with **Javascript**, **React.js**, **Operating systems** & **Cloud Engineering**.
-- 📖 I am currently reading [The Computer Science of Human Decisions](https://www.amazon.in/Algorithms-Live-Computer-Science-Decisions-ebook/dp/B015DLA0LE)
+- 📖 I am currently reading [The Feynman Lectures On Physics](https://www.feynmanlectures.caltech.edu/)
 - 💬 Ask me about...  Computational and Product Engineering., Web and Logic.
 - 💻 Need to hack on d3.js, game development & data engineering.
 - 🌀 I'm eyeing to build a intelligence company and dynamic applications for masses. _Join the [Quest](https://vinay02856@gmail.com)!_
