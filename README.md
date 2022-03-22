@@ -1,27 +1,21 @@
 #  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       `CODE + SCIENCE = ME` 
 
-Hi, I am Vinay Sharma. I wanna specialise in Web engineering. I love technological advances and startups who create them. My interests lies in envisioning new systems, reading engineering work and scientific applications. I occasionally break the _Matrix_ with my imagination.
+Hii, I am Vinay. I am immensely interested in software engineering and science.
 
-<br/>
+### Technical Strengths:
+-  JS, C++, React, Frontend Engineering, System design(basic), Operating Systems, Data structure & Algorithms.  
+-  Familiar with Databases, Functional & OOP paradigm, Cybersecurity, Cloud Engineering.
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> More About Me:
-- 🏦  Looking for work opportunities as a Web Engineer.
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I write stuff on [Medium](https://medium.com/@thevinayysharm), [DownTown](https://downtown.substack.com) and [dev.to](https://dev.to/thevinayysharma).
-- 💻 I am good with **Javascript**, **React.js**, **Operating systems** & **Cloud Engineering**.
-- 📖 I am currently reading [The Feynman Lectures On Physics](https://www.feynmanlectures.caltech.edu/)
-- 💬 Ask me about...  Computational and Product Engineering., Web and Logic.
-- 💻 Need to hack on d3.js, game development & data engineering.
-- 🌀 I'm eyeing to build a intelligence company and dynamic applications for masses. _Join the [Quest](https://vinay02856@gmail.com)!_
-- ⚡ Fun fact: Internet is the world's largest controlled experiment.
+### More About Me:
+- I am currently looking for a SDE role in specific industry verticals.
+- I am currently learning more on Cybersecurity, DSA & Frontend engineering.
+- I read books focused on science, productivity and computer applications to blogs focused on internals of programming.
+- I write on Technical and Non-technical aspects on my [Downtown Newsletter](https://downtown.substack.com) and Blogging platforms like [Medium](https://medium.com/@thevinayysharma) and [Dev](https://dev.to/thevinayysharma).
+- I aim to build Tech startups and is continiuing to work and learn around them...
+
+### CTA
+- Please connect with me on [Linkedin](https://www.linkedin.com/in/vinay-sharma-engineer/), [Twitter](https://twitter.com/thevinayysharma) or via [Email](vinay02856@gmail.com) for asking doubts, collab and opportunities.
+
+Thanks!!!
 
 
-### Projects and Learnings
->Here's a bunch of software learnings and projects, I am putting myself into(_to explore and keep my hands wet with programming_) - [Personal Projects Doc](https://www.notion.so/6e6775d6d83a44dbbc79d6fb5a0624e1?v=4dde86444f0d42cfaefc238f63013656)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thevinayysharma" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-256.png" alt="thevinayysharma" height="35" width="35" /></a>&nbsp;&nbsp
-<a href="https://linkedin.com/in/vinay-sharma-engineer" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="vinay-sharma-engineer" height="35" width="35" /></a>&nbsp;&nbsp
-<a href="https://medium.com/@thevinayysharma" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-256.png" alt="@thevinayysharma" height="35" width="35" /></a>
-</p>
