@@ -1,6 +1,6 @@
 #  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       `CODE + SCIENCE = ME` 
 
-Hii, I am Vinay. I am immensely interested in software engineering and science.
+Hii, I am Vinay. I am immensely interested in software engineering and scientific applications.
 
 ### Technical Strengths:
 -  JS, C++, React, Frontend Engineering, System design(basic), Operating Systems, Data structure & Algorithms.  
