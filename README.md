@@ -14,7 +14,7 @@ Hii, I am Vinay. I am immensely interested in Applied Computing and Web Engineer
 - I aim to build Tech startups and is continiuing to work and learn around... for them...
 
 ### CTA
-- Please connect on [Linkedin](https://www.linkedin.com/in/vinay-sharma-engineer/), [Twitter](https://twitter.com/thevinayysharma) or via [Email](vinay02856@gmail.com) for asking doubts, collaboration or opportunities.
+- Please connect on [Linkedin](https://www.linkedin.com/in/vinay-sharma-engineer/), [Twitter](https://twitter.com/thevinayysharma) or via [Email](https://vinay02856@gmail.com) for asking doubts, collaboration or opportunities.
 
 Thanks!!!
 
