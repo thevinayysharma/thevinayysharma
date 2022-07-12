@@ -1,6 +1,6 @@
 #  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       `CODE + SCIENCE = ME` 
 
-Hii, I am Vinay. I am immensely interested in Applied Computing and Web Engineering.
+Hello! I am Vinay, an Engineer living in Delhi, India. My interest and area of self-research lies in Applied Computing and Web Engineering. 
 
 ### Technical Strengths:
 -  JS, C++, React, Frontend Engineering, Data structure & Algorithms.  
