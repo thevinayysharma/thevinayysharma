@@ -7,7 +7,7 @@ Hello! I am Vinay, an Engineer living in Delhi, India. My interest and area of s
 -  Familiar with Cloud Engineering, System design, Operating Systems, Tooling, Databases & Cybersecurity. 
 
 ### More About Me:
-- I am currently looking for SWE-I roles in specific industry verticals(open to hardcore engineering problems).
+- I am currently looking for SWE-I/Frontend roles in specific industry verticals(open to hardcore engineering problems).
 - I am currently learning about DSA & Web engineering(entire ecosystem).
 - I read books focused on science, productivity and computer applications to blogs focused on internals of programming.
 - I write on Technical and Non-technical aspects on my [Downtown Newsletter](https://downtown.substack.com) and Blogging platforms like [Medium](https://medium.com/@thevinayysharma) and [Dev](https://dev.to/thevinayysharma).
