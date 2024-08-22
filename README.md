@@ -1,11 +1,7 @@
 ### Hey, I'm Vinay 👋
 
-I'm a Computer Guy. I revolve around Machine and Web Engineering. 
-
-- Currently hacking around computer applications.
-- I write sometimes on [Downtown Newsletter](https://downtown.substack.com), [Medium](https://medium.com/@thevinayysharma) & [Dev](https://dev.to/thevinayysharma).
-
-I'm best reached via [email](https://vinay02856@gmail.com) & [Twitter](https://twitter.com/thevinayysharma). I'm always open to interesting conversations and collaboration.
-
+I am a computer guy. There's a little bit of work that's need to be done at my house here. Meanwhile you can read more about me here on my [website](https://vinaysharma.netlify.app). 
+  
+I'm best reached via [email](https://vinay02856@gmail.com).
 
 
